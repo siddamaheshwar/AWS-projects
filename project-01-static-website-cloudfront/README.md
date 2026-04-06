@@ -21,10 +21,9 @@ This project demonstrates how to host a static website using Amazon S3 and distr
 
 ---
 
-## 🏗️ Architecture Overview
+## 🏗️ Architecture Diagram
 
-S3 bucket is used to store static files (HTML, CSS).
-CloudFront is used to deliver content globally through edge locations.
+User → CloudFront (CDN) → S3 Bucket → Static Website
 
 ---
 
