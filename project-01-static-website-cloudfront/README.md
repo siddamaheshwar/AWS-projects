@@ -23,7 +23,7 @@ This project demonstrates how to host a static website using Amazon S3 and distr
 
 ## 🏗️ Architecture Diagram
 
-User → CloudFront (CDN) → S3 Bucket → Static Website
+![Architecture](architecture/architecture.png)
 
 ---
 
