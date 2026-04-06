@@ -75,11 +75,69 @@ Access AWS Management Console.
 
 ## 📸 Screenshots
 
-(Add your screenshots below)
+## 📸 Screenshots
 
-![Step 1](screenshots/step1.png)
-![Step 2](screenshots/step2.png)
-![Step 3](screenshots/step3.png)
+### 🔹 S3 Bucket Creation
+
+![Create S3 Bucket](screenshots/step01-create-s3-bucket-page.png)
+![Configure Bucket Settings](screenshots/step02-configure-bucket-settings.png)
+![Block Public Access](screenshots/step03-block-public-access-settings.png)
+![Bucket Created Successfully](screenshots/step04-bucket-created-success.png)
+![S3 Bucket List](screenshots/step05-s3-bucket-list.png)
+
+---
+
+### 🔹 Upload Files to S3
+
+![Upload Files](screenshots/step06-upload-files-to-bucket.png)
+![Upload Success](screenshots/step07-upload-success.png)
+
+---
+
+### 🔹 Static Website Hosting Configuration
+
+![Static Website Hosting Page](screenshots/step08-static-website-hosting-page.png)
+![Enable Static Hosting](screenshots/step16-enable-static-hosting.png)
+![Static Hosting Success](screenshots/step17-static-hosting-success.png)
+![Static Website Endpoint](screenshots/step22-static-website-endpoint.png)
+
+---
+
+### 🔹 Bucket Policy Configuration
+
+![Permissions Tab](screenshots/step09-permissions-tab.png)
+![Policy Generator](screenshots/step10-policy-generator-page.png)
+![Add Policy Statement](screenshots/step11-add-policy-statement.png)
+![Policy Created](screenshots/step12-policy-created.png)
+![Copy Policy JSON](screenshots/step13-copy-policy-json.png)
+![Edit Bucket Policy](screenshots/step14-edit-bucket-policy.png)
+![Policy Added](screenshots/step15-policy-added.png)
+![Bucket Policy Section](screenshots/step19-bucket-policy-section.png)
+![Bucket Policy Success](screenshots/step21-bucket-policy-success.png)
+
+---
+
+### 🔹 Website Output (S3)
+
+![Website Output](screenshots/step20-website-output.png)
+
+---
+
+### 🔹 CloudFront Configuration
+
+![Create Distribution](screenshots/step23-create-cloudfront-distribution.png)
+![Review Settings](screenshots/step24-cloudfront-review-settings.png)
+![Distribution Created](screenshots/step25-cloudfront-created-success.png)
+![Distribution Details](screenshots/step26-cloudfront-distribution-details.png)
+![Edit Settings](screenshots/step27-edit-cloudfront-settings.png)
+![Security Settings](screenshots/step28-cloudfront-security-settings.png)
+
+---
+
+### 🔹 Final Output (CloudFront)
+
+![Website via CloudFront](screenshots/step29-cloudfront-website-working.png)
+
 
 ---
 
