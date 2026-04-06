@@ -153,6 +153,28 @@ The website is successfully hosted and accessible globally using CloudFront with
 * Managing public access using bucket policies
 * Understanding AWS global infrastructure
 
+  ## 🎤 Interview Explanation
+
+This project demonstrates hosting a static website using AWS S3 and improving performance using CloudFront.
+
+First, I created an S3 bucket and uploaded static files like HTML and CSS. Then I enabled static website hosting and configured a bucket policy to allow public access.
+
+After that, I created a CloudFront distribution and connected it to the S3 bucket. CloudFront caches the content and delivers it through edge locations, which improves performance and reduces latency.
+
+Finally, I accessed the website using the CloudFront URL, ensuring global availability and faster content delivery.
+
+---
+
+## ⚡ Key Points for Interview
+
+* S3 is used for storage
+* CloudFront is used as CDN
+* Bucket policy allows public access
+* CloudFront improves speed using caching
+* Website is globally accessible
+
+
+
 ---
 
 ## 👨‍💻 Author
